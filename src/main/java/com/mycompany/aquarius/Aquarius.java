@@ -11,6 +11,6 @@ package com.mycompany.aquarius;
 public class Aquarius {
 
     public static void main(String[] args) {
-        System.out.println("Hello Aquarius!");
+        System.out.println("Hello Aquarius que hay!");
     }
 }
